@@ -13,13 +13,13 @@
       <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black&style=flat-square" alt="Medium Badge"/>
     </a>
     <a href="https://www.leetcode.com/preethika_n_c">
-      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&color=yellow&labelColor=yellow&style=flat-square" alt="LeetCode Badge"/>
+      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode Badge"/>
     </a>
     <a href="https://twitter.com/fantasy_preethi">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Badge"/>
     </a>
     <a href="https://instagram.com/numeric0_0nerd">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=E4405F&style=flat-square" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge"/>
     </a>
   </div>
 </p>
