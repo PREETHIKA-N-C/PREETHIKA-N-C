@@ -5,11 +5,23 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/fantasy_preethi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fantasy_preethi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/preethika-n-c-5621b5181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preethika-n-c" height="30" width="40" /></a>
-<a href="https://instagram.com/numeric0_0nerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="numeric0_0nerd" height="30" width="40" /></a>
-<a href="https://medium.com/@ncpreethika30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ncpreethika30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/preethika_n_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="preethika_n_c" height="30" width="40" /></a>
+  <div id="badges">
+    <a href="https://linkedin.com/in/preethika-n-c-5621b5181">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://medium.com/@ncpreethika30">
+      <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black&style=flat-square" alt="Medium Badge"/>
+    </a>
+    <a href="https://www.leetcode.com/preethika_n_c">
+      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&color=yellow&labelColor=yellow&style=flat-square" alt="LeetCode Badge"/>
+    </a>
+    <a href="https://twitter.com/fantasy_preethi">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Badge"/>
+    </a>
+    <a href="https://instagram.com/numeric0_0nerd">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=E4405F&style=flat-square" alt="Instagram Badge"/>
+    </a>
+  </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
