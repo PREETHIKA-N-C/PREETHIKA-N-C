@@ -38,9 +38,9 @@
 
 <h3 align="left">Github Stats:</h3>
 <div>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=preethika-n-c&show_icons=true&locale=en&layout=compact" alt="preethika-n-c" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=preethika-n-c&show_icons=true&locale=en&layout=compact&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=preethika-n-c&show_icons=true&locale=en" alt="preethika-n-c" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=preethika-n-c&show_icons=true&locale=en&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=preethika-n-c&" alt="preethika-n-c" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=preethika-n-c&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
 </div>
