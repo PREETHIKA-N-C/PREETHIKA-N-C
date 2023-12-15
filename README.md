@@ -35,8 +35,6 @@
   </a>
 </p>
 
-
-
 <h3 align="left">Github Stats:</h3>
 <div>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=preethika-n-c&show_icons=true&locale=en&layout=compact&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
