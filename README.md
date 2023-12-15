@@ -44,4 +44,5 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=preethika-n-c&show_icons=true&locale=en&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=preethika-n-c&theme=transparent&fire=EB5454" alt="preethika-n-c" /></p>
+  [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 </div>
