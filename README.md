@@ -31,7 +31,7 @@
 <h3 align="left">Github Trophies:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=preethika-n-c&column=4&margin-w=10&margin-h=10&theme=nord&no-frame=false&no-bg=true" alt="preethika-n-c" />
+    <img src="https://github-profile-trophy.vercel.app/?username=preethika-n-c&column=4&margin-w=10&margin-h=10&theme=algolia&no-frame=false&no-bg=true" alt="preethika-n-c" />
   </a>
 </p>
 
