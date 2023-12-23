@@ -1,5 +1,5 @@
 ![MasterHead](https://i.postimg.cc/Hnzw6cyp/Github-Prof-Banner.jpg)
-<h1 align="center">Hello World! I'm Preethika N C</h1>
+<h1 align="center">Hello World! I'm Preethika</h1>
 <p align="center">Harnessing over two years of corporate expertise in the realms of data science and web development, I currently excel as a dedicated data scientist. My journey is marked by a commitment to unraveling insights and crafting innovative solutions that leave a lasting impact. Join me as I navigate the dynamic intersection of technology and data to create meaningful change.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethika-n-c&label=Profile%20views&color=0e75b6&style=flat" alt="preethika-n-c" /> </p>
