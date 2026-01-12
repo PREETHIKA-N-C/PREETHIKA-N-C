@@ -7,7 +7,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
   <div id="badges">
-    <a href="https://linkedin.com/in/preethika-n-c-5621b5181">
+    <a href="https://www.linkedin.com/in/preethika-n-c/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@ncpreethika30">
